@@ -13,7 +13,7 @@ Cybersecurity newbie. Currently studying for CompTIA Security+ and building hand
 
 ## Projects
 - hello.py — First Python script, start of my development journey
-
+- password_checker.py — Python tool that analyzes password strength and provides security feedbacks
 ## Currently Learning
 - CompTIA Security+ (SY0-701)
 - TryHackMe SOC Level 1 path

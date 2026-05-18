@@ -1,0 +1,10 @@
+2026-05-18 08:12:01 INFO User admin logged in from 192.168.1.1
+2026-05-18 08:15:33 FAILED login attempt from 192.168.1.105
+2026-05-18 08:16:02 FAILED login attempt from 192.168.1.105
+2026-05-18 08:17:45 ERROR database connection timeout from 10.0.0.2
+2026-05-18 08:18:10 FAILED login attempt from 203.0.113.42
+2026-05-18 08:19:55 INFO User john logged in from 192.168.1.20
+2026-05-18 08:21:30 ERROR failed to load config file from 10.0.0.5
+2026-05-18 08:22:11 FAILED login attempt from 203.0.113.42
+2026-05-18 08:23:44 FAILED login attempt from 203.0.113.42
+2026-05-18 08:25:00 INFO System backup completed from 192.168.1.1
